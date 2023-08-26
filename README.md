@@ -1,4 +1,4 @@
-![MasterHead](https://imgs.search.brave.com/HV-lXo7561BpRDCcR0On8VVENuntVGKqhXf4YazqN2U/rs:fit:860:0:0/g:ce/aHR0cDovL20uZ2V0/dHl3YWxscGFwZXJz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wMy9Db29s/LVdhbGxwYXBlci0x/LmpwZw)
+![MasterHead](https://lepei.github.io/assets/img/genshin-impact/crimson-agate-banner.jpg)
 <h1 align="center">Hi 👋, I'm Maksim Janjetović</h1>
 <h3 align="center">A beginner programmer based in Germany</h3>
 
