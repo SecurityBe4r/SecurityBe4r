@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Maksim Janjetović</h1>
 <h3 align="center">A beginner programmer based in Germany</h3>
 
-- 🔭 I’m currently working on [Webscraper](https://github.com/KBx4/Job-finder-using-web-scraping)
+- 🔭 I’m currently working on [Website](https://github.com/SecurityBe4r/StarTrek-Weather)
 
 - 🌱 I’m currently learning **Python, Javascript**
-
-- 👯 I’m looking to collaborate on [Webscraper_Amazon](https://github.com/KBx4/Amazon-web-scraper)
 
 - 📫 How to reach me **maksim.janjetovic.contact@gmail.com**
 
@@ -14,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/security_b4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="security_b4r" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chillproduction" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chillproduction" height="30" width="40" /></a>
 </p>
 
